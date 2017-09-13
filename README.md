@@ -3,12 +3,24 @@ Easy slide library for javascript.
 
 Slide / fade element when it's scrolled into view.
 
+# Require
+JQuery and JQuery UI
+
+&#60;script src="//code.jquery.com/jquery-1.12.4.js"&#62;&#60;/script&#62;
+
+&#60;script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"&#62;&#60;/script&#62;
+
 # Usage
+
+Enable in javascript with:
+
+<code>slideFrom.enable = 1</code>
+
 Set attribute *'slidefrom'* to element, and give parameters;
 
 <b>*slidefrom="slide,FROM_WHERE,DURATION"*</b> or <b>*slidefrom="fade,DURATION"*</b>
 
-<b>Example:<b>
+<b>Example:</b>
   
 <code>
   
@@ -20,7 +32,7 @@ Set attribute *'slidefrom'* to element, and give parameters;
 
 </code>
 
-<b>Example2:<b>
+<b>Example2:</b>
   
 <code>
   
