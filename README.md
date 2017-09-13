@@ -18,11 +18,11 @@ Enable in javascript with:
 
 Set attribute *'slidefrom'* to element, and give parameters;
 
-<b>*slidefrom="slide, FROM, DURATION"*</b> 
+<code>slidefrom="slide, FROM, DURATION"</code> 
 
 or 
 
-<b>*slidefrom="fade, DURATION"*</b>
+<code>slidefrom="fade, DURATION"</code>
 
 <b>Example:</b>
   
